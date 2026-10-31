@@ -24,7 +24,7 @@
               },
               {
                 "type": "text",
-                "html": "Extract Gameboy camera images to&nbsp;"
+                "html": "A devise to extract Gameboy camera images to PNG files. This project started with a very basic way to get picture off a Gameboy camera and on to my phone, but has become much more."
               }
             ],
             []
