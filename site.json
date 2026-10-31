@@ -78,7 +78,13 @@
     },
     {
       "name": "Game Boy Wi-Fi Printer",
-      "blocks": []
+      "blocks": [
+        {
+          "type": "button",
+          "label": "Purchase Here",
+          "url": "https://www.tindie.com/products/Suicidebattery/camera-wifi-printer-for-gameboy/"
+        }
+      ]
     },
     {
       "name": "Pokemon Trader",
