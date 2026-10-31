@@ -1,0 +1,16 @@
+{
+  "title": "nilltronic",
+  "accent": "#1f4fd8",
+  "pages": [
+    {
+      "name": "Home",
+      "blocks": [
+        {
+          "type": "hero",
+          "title": "nilltronic",
+          "sub": "Welcome to my site."
+        }
+      ]
+    }
+  ]
+}
