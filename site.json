@@ -57,13 +57,19 @@
               {
                 "type": "text",
                 "html": "A device that can generate Gen 1 and 2 Pokémon and trade them with Pokémon cartridges on original hardware. Making \"catching them all\" much easier."
+              },
+              {
+                "type": "button",
+                "label": "Pokémon Trader Page",
+                "url": "pokemon-trader.html"
               }
             ],
             [
               {
                 "type": "image",
                 "src": "assets/1793464216159-photo_2026-08-23_07-10-18.jpg",
-                "alt": "photo_2026-08-23_07-10-18"
+                "alt": "photo_2026-08-23_07-10-18",
+                "href": "pokemon-trader.html"
               }
             ]
           ]
@@ -72,6 +78,10 @@
     },
     {
       "name": "Game Boy Wi-Fi Printer",
+      "blocks": []
+    },
+    {
+      "name": "Pokemon Trader",
       "blocks": []
     }
   ]
