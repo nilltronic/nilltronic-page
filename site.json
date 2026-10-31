@@ -9,6 +9,26 @@
           "type": "hero",
           "title": "nilltronic",
           "sub": "Welcome to my site."
+        },
+        {
+          "type": "text",
+          "html": "Hi, my name is Ian. I am a teaching assistant, with a passion for electronics, tech and video games.<div>Over the past few years, I have turned some of my projects into products and sell them around the web.</div><div>This site is really just a record of what I have made.</div>"
+        },
+        {
+          "type": "columns",
+          "cols": [
+            [
+              {
+                "type": "heading",
+                "text": "Gameboy Camera Wi-Fi Printer"
+              },
+              {
+                "type": "text",
+                "html": "Extract Gameboy camera images to&nbsp;"
+              }
+            ],
+            []
+          ]
         }
       ]
     }
