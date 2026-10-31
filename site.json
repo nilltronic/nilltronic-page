@@ -41,6 +41,14 @@
               }
             ]
           ]
+        },
+        {
+          "type": "divider",
+          "style": "line"
+        },
+        {
+          "type": "heading",
+          "text": "Section heading"
         }
       ]
     },
